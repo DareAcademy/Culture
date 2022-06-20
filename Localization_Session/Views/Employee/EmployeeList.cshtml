@@ -1,0 +1,48 @@
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+
+@{
+    ViewData["Title"] = "EmployeeList";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+<form method="post">
+    <div class="row">
+        <div class="col-xs-1">@localizer["Name"]</div>
+        <div class="col-xs-4">
+            <input type="text" class="form-control" name="txtSearchName" />
+        </div>
+        <div class="col-xs-1">
+            <input type="submit" value='@localizer["Search"]' class="form-control" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12">
+            <table class="table table-bordered table-striped table-hover">
+                <thead>
+                    <tr>
+                        <th>
+                            @localizer["ID"]
+                        </th>
+                        <th>
+                            @localizer["Name"]
+                        </th>
+
+                    </tr>
+
+                    <tr>
+                        <td>
+                            1
+                        </td>
+                        <td>
+                            Ahmad
+                        </td>
+
+                    </tr>
+
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</form>

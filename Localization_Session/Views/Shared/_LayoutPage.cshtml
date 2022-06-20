@@ -1,0 +1,106 @@
+﻿
+@{
+    Layout = null;
+}
+
+
+@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+@inject Microsoft.Extensions.Options.IOptions<Microsoft.AspNetCore.Builder.RequestLocalizationOptions> LocOptions
+
+@{
+    var requestCulture = Context.Features.Get<Microsoft.AspNetCore.Localization.IRequestCultureFeature>();
+    var curUiCulture = System.Threading.Thread.CurrentThread.CurrentUICulture.Name;
+    var cultureItems = LocOptions.Value.SupportedCultures
+        .Select(c => new SelectListItem { Value = c.Name, Text = localizer.GetString(c.Name) })
+        .ToList();
+
+    var returnUrl = string.IsNullOrEmpty(Context.Request.Path) ? "~/" : $"~{Context.Request.Path.Value}";
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>_LayoutPage</title>
+    @if (curUiCulture == "en")
+    {
+        <link href="~/lib/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+    }
+    else
+    {
+        <link href="~/lib/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+        <link href="~/lib/bootstrap-rtl/css/bootstrap-rtl.css" rel="stylesheet" />
+
+    }
+
+
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+    <script src="~/lib/twitter-bootstrap/js/bootstrap.js"></script>
+
+    @RenderSection("Head", false)
+
+</head>
+<body>
+
+    <div class="container-fluid">
+        <div class="row">
+            <nav class="navbar-inverse">
+                <div class="navbar-brand">
+                    @localizer["Title"]
+                </div>
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-target="#menu1" data-toggle="collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div id="menu1" class="navbar-collapse collapse">
+
+
+                    <ul class="nav navbar-nav">
+                        <li>
+                            <a href="#">@localizer["NewEmployee"]</a>
+                        </li>
+                        <li>
+                            <a href="#">@localizer["EmployeeList"]</a>
+                        </li>
+                        
+
+                    </ul>
+
+
+                    <ul class="nav navbar-nav navbar-right">
+
+                        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> @localizer["Login"]</a></li>
+
+                        <li><a href="#"><span class="glyphicon glyphicon-user"></span> @localizer["SignUp"]</a></li>
+                        <li>
+                            <form asp-controller="Culture" asp-action="setLanguage" method="post" asp-route-returnUrl="@returnUrl">
+                                <select name="culture" onchange="this.form.submit();"
+                                        asp-for="@requestCulture.RequestCulture.UICulture.Name"
+                                        asp-items="cultureItems"></select>
+
+                            </form>
+                        </li>
+
+
+                    </ul>
+                </div>
+            </nav>
+        </div>
+
+        <div class="row">
+            <div class="col-xs-12">
+                @RenderBody()
+
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>

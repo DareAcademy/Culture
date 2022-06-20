@@ -1,0 +1,258 @@
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\appsettings.json
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Localization_Session.exe
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Localization_Session.deps.json
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Localization_Session.runtimeconfig.json
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Localization_Session.runtimeconfig.dev.json
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Localization_Session.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Localization_Session.pdb
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Localization_Session.Views.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Localization_Session.Views.pdb
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.AssemblyInfo.cs
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.MvcApplicationPartsAssemblyInfo.cache
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.RazorAssemblyInfo.cache
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.RazorAssemblyInfo.cs
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\staticwebassets\Localization_Session.StaticWebAssets.Manifest.cache
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\staticwebassets\Localization_Session.StaticWebAssets.xml
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\scopedcss\bundle\Localization_Session.styles.css
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.TagHelpers.input.cache
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.TagHelpers.output.cache
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.RazorCoreGenerate.cache
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.RazorTargetAssemblyInfo.cache
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.RazorTargetAssemblyInfo.cs
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Views.pdb
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.pdb
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.genruntimeconfig.cache
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.csproj.CopyComplete
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\libman.json
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutPage.cshtml.g.cs
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\Employee\NewEmployee.cshtml.g.cs
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ar\Localization_Session.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\en\Localization_Session.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Views.Employee.NewEmployee.ar.resources
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Views.Employee.NewEmployee.en.resources
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\ar\Localization_Session.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\en\Localization_Session.resources.dll
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Views.Shared._LayoutPage.ar.resources
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Views.Shared._LayoutPage.en.resources
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.csprojAssemblyReference.cache
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\Employee\EmployeeList.cshtml.g.cs
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Views.Employee.EmployeeList.ar.resources
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Views.Employee.EmployeeList.en.resources
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Controllers.EmployeeController.ar.resources
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Controllers.EmployeeController.en.resources
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Models.Employee.ar.resources
+C:\inetpub\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Models.Employee.en.resources
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\libman.json
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Localization_Session.exe
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Localization_Session.deps.json
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Localization_Session.runtimeconfig.json
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Localization_Session.runtimeconfig.dev.json
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Localization_Session.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Localization_Session.pdb
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ar\Localization_Session.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\en\Localization_Session.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Localization_Session.Views.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Localization_Session.Views.pdb
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.csprojAssemblyReference.cache
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Controllers.EmployeeController.ar.resources
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Controllers.EmployeeController.en.resources
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Models.Employee.ar.resources
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Models.Employee.en.resources
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Views.Employee.EmployeeList.ar.resources
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Views.Employee.EmployeeList.en.resources
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Views.Employee.NewEmployee.ar.resources
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Views.Employee.NewEmployee.en.resources
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Views.Shared._LayoutPage.ar.resources
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Resources.Views.Shared._LayoutPage.en.resources
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.csproj.GenerateResource.cache
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.AssemblyInfoInputs.cache
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.AssemblyInfo.cs
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.csproj.CoreCompileInputs.cache
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.RazorAssemblyInfo.cache
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.RazorAssemblyInfo.cs
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\ar\Localization_Session.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\en\Localization_Session.resources.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\staticwebassets\Localization_Session.StaticWebAssets.Manifest.cache
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\staticwebassets\Localization_Session.StaticWebAssets.xml
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\scopedcss\bundle\Localization_Session.styles.css
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.TagHelpers.input.cache
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.TagHelpers.output.cache
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.RazorCoreGenerate.cache
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\Employee\EmployeeList.cshtml.g.cs
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\Employee\NewEmployee.cshtml.g.cs
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutPage.cshtml.g.cs
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.RazorTargetAssemblyInfo.cache
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.RazorTargetAssemblyInfo.cs
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.Views.pdb
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.csproj.CopyComplete
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.dll
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.pdb
+D:\Training\Dare Academy\wwwroot\Localization_Session\Localization_Session\obj\Debug\netcoreapp3.1\Localization_Session.genruntimeconfig.cache
